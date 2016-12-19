@@ -1,5 +1,12 @@
 package com.machado.controller;
 
+/***
+ * 
+ * Login class comments.
+ * 
+ * @author gmachado
+ *
+ */
 public class Login {
 	
 	private String usuario;
