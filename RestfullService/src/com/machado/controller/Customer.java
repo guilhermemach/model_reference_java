@@ -1,5 +1,13 @@
 package com.machado.controller;
 
+
+/***
+ * 
+ * @author gmachado
+ *
+ * comments to be done
+ *
+ */
 public class Customer {
 
 	private Long id;
